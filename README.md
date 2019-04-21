@@ -1,4 +1,4 @@
-#INFORMASI SCRIP
+# INFORMASI SCRIP
 Scrip Ini Dibuat oleh AnonyCyyber,Fungsi Scrip ini adalah Untuk Keamanan Termux Anda Supaya Orang Lain Tidak Bisa Membuka Termux kamu...
 Nah...coba bayangkan jika termux kamu dibuka untuk hacking kejahat sama teman kamu
 otomatis IP kamu yang akan terteta
