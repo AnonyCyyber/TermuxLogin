@@ -1,0 +1,6 @@
+clear
+cd TermuxLogin
+python log.py
+sleep 2
+cd /data/data/com.termux/files/home
+clear
